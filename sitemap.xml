@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/2018/03/23/install-laravel-using-valet/</loc>
+    
+    <lastmod>2018-03-23T17:43:31.083Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/about-me/index.html</loc>
+    
+    <lastmod>2018-03-23T17:31:57.388Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/03/23/digitalocean-deploy-laravel-nginx/</loc>
+    
+    <lastmod>2018-03-23T10:58:34.583Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2018/03/23/hello-world/</loc>
+    
+    <lastmod>2018-03-23T10:08:09.023Z</lastmod>
+    
+  </url>
+  
+</urlset>
